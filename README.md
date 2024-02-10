@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Python, Machine Learning,AI**
 
-- 📫 How to reach me **aparnapkv12@gmail.ocm**
+- 📫 How to reach me **aparnapkv12@gmail.com**
 
 - 📄 Know about my experiences **intern at Luminar Technolab**
 

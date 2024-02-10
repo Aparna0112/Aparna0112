@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aparna Padmakumar</h1>
 <h3 align="center">A passionate AI Developer from Kerala</h3>
-<img align="right" alt="coding" width="400" src="https://github.com/Aparna0112/Aparna0112/assets/159600270/a01e0552-eb7f-426c-96c8-36e0f491815f">
+<img align="right" alt="coding" width="250" src="https://github.com/Aparna0112/Aparna0112/assets/159600270/a01e0552-eb7f-426c-96c8-36e0f491815f">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aparna0112&label=Profile%20views&color=0e75b6&style=flat" alt="aparna0112" /> </p>
 
